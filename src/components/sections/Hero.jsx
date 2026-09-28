@@ -2,8 +2,7 @@ import { ArrowRight } from "lucide-react";
 import { SITE } from "@/lib/site";
 import Reveal from "@/components/Reveal";
 
-const HERO_IMAGE = "/sassy-hero.png";
-
+const HERO_IMAGE = "/sassy-hero.jpg";
 export default function Hero() {
   return (
     <section className="relative">
